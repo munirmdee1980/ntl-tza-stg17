@@ -1,0 +1,2 @@
+shapeID,name,area_km2,n_pixels,sol,rad_km2,sol_per_km2,mean_rad,median_rad,p90_rad,max_rad,lit_area_km2,lit_share,core_area_km2,core_share,pop,pop_inhabited,pop_lit,pop_dark,pop_lit_share,pop_density,sol_per_capita,gini_pixels,gini_pop_light,cv_rad,sol_share_nat,pop_share_nat,light_pop_ratio
+36199320B23719009376906,Tanzania,889754,902347,56818,56094.6,0.063858,0.0629669,0,0,75.4548,29551.6,0.0332133,980.85,0.00110238,5.59443e+07,5.58956e+07,2.21056e+07,3.37901e+07,0.395479,62.8762,0.00101562,0.984742,0.819421,11.2247,1,1,1

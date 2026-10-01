@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "Tanzania — Night-Time Lights subnational indicators"
+message: "If you use these data or this code, please cite them as below."
+type: dataset
+authors:
+  - name: "National Statistical Office"
+abstract: >-
+  Subnational indicators derived from VIIRS night-time lights for
+  Tanzania (TZA), 2015-2024, produced during the
+  STG17 Technical Workshop of the African Development Bank and AU STATAFRIC.
+keywords:
+  - night-time lights
+  - VIIRS
+  - official statistics
+  - "TZA"
+  - non-traditional data
+license: CC BY 4.0
+date-released: "2026-10-01"
